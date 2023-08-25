@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: black;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+}
+
+#root{
+  position: fixed;
+  height: 100%;
+  width: 100%;
+}
